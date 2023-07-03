@@ -1,58 +1,30 @@
-.blue-text {
-    color: #0000ff;
+.d1 {
+    background-color: lightblue;
+    opacity: 1;
 }
 
-.lorem-text {
-    font-size: 20px;
+.d2 {
+    background-color: lightblue;
+    opacity: 0.8;
 }
 
-.red-text {
-    color: #ff0000;
-    padding-top: 20px;
+.d3 {
+    background-color: lightblue;
+    opacity: 0.6;
 }
 
-.p1 {
-    color: #a42423;
-    font-size: 20px;
-    padding-top: 20px;
+.pad1 {
+    padding-top: 27px;
+    padding-left: 21px;
 }
 
-.p2 {
-    color: #00008f;
-    font-size: 20px;
-    padding-top: 20px;
-}
-.background {
-    background-color: #f5f5dd;
-    width: 300px;
-    min-height: 500px;
+.pad-txt {
+    padding-left: 19px;
+    padding-bottom: 12px;
+    color: black;
+    opacity: 0.7;
 }
 
-.square {
-    background-color: black;
-    width: 100px;
-    height: 100px;
-    margin-top: 7px;
-}
-
-#d2 {
-    background-color: rgba(0, 0, 0, 0.7);
-}
-#d3 {
-    background-color: rgba(0, 0, 0, 0.5);
-}
-#d4 {
-    background-color: rgba(0, 0, 0, 0.3);
-}
-
-.square-group {
-    padding-top: 30px;
-    width: 100px;
-    margin: auto;
-}
-
-.white-text {
-    color: white;
-    padding-top: 5px;
-    padding-left: 20px;
+.bck-col {
+    background-color: beige;
 }
