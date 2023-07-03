@@ -1,13 +1,15 @@
-.par {
-    width: 100px;
-    height: 100px;
-    background-color: red;
+.text {
+    color: green;
 }
 
-#opac {
-    opacity: 0.6;
+.h1 {
+    background-color: bisque;
 }
 
-#blue {
-    background-color: aqua;
+.h3 {
+    background-color: blanchedalmond;
+}
+
+h1 + h3 {
+    color: red;
 }
