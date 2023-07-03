@@ -2,22 +2,30 @@
     color: #0000ff;
 }
 
-* {
-    text-align: center;
-}
-
 .lorem-text {
     font-size: 20px;
 }
 
 .red-text {
-    color: red;
+    color: #ff0000;
+    padding-top: 20px;
 }
 
+.p1 {
+    color: #a42423;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.p2 {
+    color: #00008f;
+    font-size: 20px;
+    padding-top: 20px;
+}
 .background {
-    background-color: #808080;
-    width: 40%;
-    min-height: 500px;
+    background-color: #faebd6;
+    width: 85%;
+    min-height: 400px;
 }
 
 .square {
