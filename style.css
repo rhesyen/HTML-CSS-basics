@@ -1,3 +1,19 @@
+.blue-text {
+    color: #0000ff;
+}
+
+* {
+    text-align: center;
+}
+
+.lorem-text {
+    font-size: 20px;
+}
+
+.red-text {
+    color: red;
+}
+
 .background {
     background-color: #808080;
     width: 40%;
@@ -12,7 +28,7 @@
     margin-bottom: 7px;
 }
 
-.text {
+.white-text {
     color: white;
     padding-top: 5px;
     padding-left: 20px;
