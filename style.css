@@ -1,15 +1,46 @@
-.text {
+.d1 {
+    background-color: lightblue;
+    opacity: 1;
+}
+
+.d2 {
+    background-color: lightblue;
+    opacity: 0.8;
+}
+
+.d3 {
+    background-color: lightblue;
+    opacity: 0.6;
+}
+
+.pad1 {
+    padding-top: 27px;
+    padding-left: 21px;
+}
+
+.pad-txt {
+    padding-left: 19px;
+    padding-bottom: 12px;
+    color: black;
+    opacity: 0.7;
+}
+
+#l1 {
+    color: red;
+}
+
+#l2 {
+    color: blue;
+}
+
+#l3 {
     color: green;
 }
 
-.h1 {
-    background-color: bisque;
+#l4 {
+    color: yellow;
 }
 
-.h3 {
-    background-color: blanchedalmond;
-}
-
-h1 + h3 {
-    color: red;
+#l5 {
+    color: blueviolet;
 }
